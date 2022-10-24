@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/day_26" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kanye-quotes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mail-merge-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-news-normal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/urtle-crossing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/us-states-game" vcs="Git" />
   </component>
