@@ -1,0 +1,50 @@
+1   |Top Gun: Maverick  |8.4  
+2   |The Lord of the Rings: The Fellowship of the Ring  |8.8  
+3   |The Shawshank Redemption  |9.3  
+4   |The Godfather  |9.2  
+5   |Interstellar  |8.6  
+6   |The Shining  |8.4  
+7   |Joker  |8.4  
+8   |Avengers: Endgame  |8.4  
+9   |Pulp Fiction  |8.9  
+10   |Fight Club  |8.8  
+11   |The Dark Knight  |9.0  
+12   |The Silence of the Lambs  |8.6  
+13   |Gisaengchung  |8.5  
+14   |Back to the Future  |8.5  
+15   |Inception  |8.8  
+16   |American Beauty  |8.4  
+17   |The Lord of the Rings: The Return of the King  |9.0  
+18   |Inglourious Basterds  |8.3  
+19   |Se7en  |8.6  
+20   |Forrest Gump  |8.8  
+21   |Alien  |8.5  
+22   |Gladiator  |8.5  
+23   |Whiplash  |8.5  
+24   |The Lord of the Rings: The Two Towers  |8.8  
+25   |Schindler's List  |9.0  
+26   |The Departed  |8.5  
+27   |Léon  |8.5  
+28   |Psycho  |8.5  
+29   |The Matrix  |8.7  
+30   |Django Unchained  |8.4  
+31   |Goodfellas  |8.7  
+32   |Coco  |8.4  
+33   |The Prestige  |8.5  
+34   |Requiem for a Dream  |8.3  
+35   |Star Wars  |8.6  
+36   |One Flew Over the Cuckoo's Nest  |8.7  
+37   |Eternal Sunshine of the Spotless Mind  |8.3  
+38   |Avengers: Infinity War  |8.4  
+39   |12 Angry Men  |9.0  
+40   |The Godfather Part II  |9.0  
+41   |The Green Mile  |8.6  
+42   |Oldeuboi  |8.4  
+43   |Good Will Hunting  |8.3  
+44   |The Dark Knight Rises  |8.4  
+45   |2001: A Space Odyssey  |8.3  
+46   |The Usual Suspects  |8.5  
+47   |Apocalypse Now  |8.5  
+48   |Braveheart  |8.4  
+49   |Sen to Chihiro no kamikakushi  |8.6  
+50   |Saving Private Ryan  |8.6  
